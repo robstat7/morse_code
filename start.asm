@@ -27,9 +27,6 @@ segment readable writable
 
 input	db "program", 0
 
-segment readable writable
-
-
 segment readable executable
 
 start:
