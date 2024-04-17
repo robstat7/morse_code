@@ -29,10 +29,6 @@ segment readable writable
 
 input	db "program", 0
 
-segment readable writable
-
-morse_output dq ?
-
 segment readable executable
 
 start:
