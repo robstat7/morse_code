@@ -1,0 +1,1 @@
+fasm morse.asm build/morse
